@@ -1,6 +1,6 @@
 import math
 
-#maybe fit my code 
+#maybe only fit my code 
 #WHY DOES NOT MICROPYTHON HAVE NUMPY!!! 
 
 inf = 99999999.
